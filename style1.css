@@ -72,8 +72,8 @@ pre{
     color: white;
   }
 .fa-envelope{
-    background: white;
-    color: red;
+    color: white;
+    font-size: 60px;
 }
 .fa-twitter {
     background: #55ACEE;
